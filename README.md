@@ -1,6 +1,6 @@
 *Welcome to CodeBin*
 
-CodeBin is an simple code displayer smilar to JS Bin built using HTML5, CSS3 and Javascript.
+CodeBin is a simple code displayer similar to JS Bin built using HTML5, CSS3, and Javascript.
 
 **Contributing**
 
