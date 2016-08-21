@@ -1,7 +1,19 @@
-# Code-Displayer
+*Welcome to CodeBin*
 
-A code displayer like JS bin.
+CodeBin is an simple code displayer smilar to JS Bin built using HTML5, CSS3 and Javascript.
 
-IMPORTANT:
+**Contributing**
 
-If you plan to use this for your website, remove the JS testing function. It may cause security issue.
+1. Fork the CodeBin repository.
+2. Create a branch for the proposed feature `git checkout -b new-branch-name`
+3. Commit your changes. `git commit`
+4. Push your changes to `new-branch-name`. `git push origin new-branch-name`.
+5. Submit a pull request.
+
+**Contributors**
+
++ Ethan He
+
+**License**
+
+[MIT License(MIT)](https://opensource.org/licenses/MIT)
